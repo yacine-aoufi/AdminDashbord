@@ -1,0 +1,13 @@
+/* Responsive table styling */
+.table-container {
+    overflow-x: auto;
+  }
+  
+  /* Define media queries for responsiveness */
+ 
+
+  @media screen and (max-width: 768px) {
+    .table-container {
+        margin: 12em auto 1em;
+        overflow-x: auto;
+    }}

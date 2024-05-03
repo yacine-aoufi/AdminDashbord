@@ -1,0 +1,17 @@
+.btn-outline-secondary-custom {
+    margin-top: 50px;
+    margin-left: 50px;
+    color: #2AAAE2;
+    border-color: #2AAAE2;
+    font-size: 20px; /* Adjust the font size as needed */
+    padding: 10px 20px; /* Adjust the padding as needed */
+    width: 140px; /* Adjust the width as needed */
+    height: 60px; 
+    border-radius: 7%;
+}
+
+.btn-outline-secondary-custom:hover {
+    color: #fff;
+    background-color:#F86A9A;
+    border-color: #2AAAE2;
+}
